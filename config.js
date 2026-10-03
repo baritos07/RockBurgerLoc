@@ -1,0 +1,1 @@
+window.ROCK_CONFIG={SUPABASE_URL:"https://syqfcrptkahmimeyvbfh.supabase.co",SUPABASE_ANON_KEY:"sb_publishable_jB67Z_jaUwIxPNJzYChQkg_jlB2xjhs",RESTAURANT:{name:"Rock Burger",address:"Río Lerma #24, Colinas del Lago, Cuautitlán Izcalli",lat:19.6520,lng:-99.2130},DRIVER_ID:"repartidor-1",DRIVER_NAME:"Repartidor 1"};
